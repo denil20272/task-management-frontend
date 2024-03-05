@@ -18,7 +18,7 @@ jobs:
         uses: c-hive/gha-yarn-cache@v1
 
       - name: Install dependencies
-        run: yarn
+        run: yarn --network-timeout 500000
 
       - name: Build React App
         run: yarn build

@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://denil20272.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://denil20272.github.io/task-management-frontend/static/js/main.b4de7a84.chunk.js",
+    "main.js.map": "https://denil20272.github.io/task-management-frontend/static/js/main.b4de7a84.chunk.js.map",
+    "runtime~main.js": "https://denil20272.github.io/task-management-frontend/static/js/runtime~main.8afa552b.js",
+    "runtime~main.js.map": "https://denil20272.github.io/task-management-frontend/static/js/runtime~main.8afa552b.js.map",
+    "static/js/2.8ae1a336.chunk.js": "https://denil20272.github.io/task-management-frontend/static/js/2.8ae1a336.chunk.js",
+    "static/js/2.8ae1a336.chunk.js.map": "https://denil20272.github.io/task-management-frontend/static/js/2.8ae1a336.chunk.js.map",
+    "index.html": "https://denil20272.github.io/task-management-frontend/index.html",
+    "precache-manifest.a1b9cac2795a91235c47ae17c80e8156.js": "https://denil20272.github.io/task-management-frontend/precache-manifest.a1b9cac2795a91235c47ae17c80e8156.js",
+    "service-worker.js": "https://denil20272.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://denil20272.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
